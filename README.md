@@ -10,6 +10,7 @@
 5. <a href="#garage">Garage</a>
 6. <a href="#minimap">Minimap</a>
 7. <a href="#firebase">Firebase</a>
+8. <a href="#built-with">Built With</a>
 
 ## Car Controller
 
@@ -29,14 +30,20 @@ When the landmine collided with the vehicle, The vehicle are scattered by explod
 
 ### Shield
 
-When the landmine collided with the vehicle, The vehicle are scattered by exploding force of the landmine. the vehicle gets damage and the landmine destroys itself from server (and all clients).
+Shield protect your car from any damage. When your vehicle collides with missile or landmine, it runs explotion particial effects and destroy these skills. It disappears after 5 second.
 
 
 ![](ReadMeResources/Shield.gif)
 
 ### Missile
 
-When the landmine collided with the vehicle, The vehicle are scattered by exploding force of the landmine. the vehicle gets damage and the landmine destroys itself from server (and all clients).
+Missile is locked its target. It goes towards the target.The transform datas distribute to all clients by the owner client of the missile. When the missile collides any car which does not have shield buff, then the vehicle gets damage and the missile destroys itself from server. 
 
 
 ![](ReadMeResources/Missile.gif)
+
+## Built With
+
+* [Unity](https://unity.com/)
+* [Photon2](https://www.photonengine.com/)
+
