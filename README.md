@@ -3,9 +3,9 @@
 ### Headers
 1. <a href="#car-controller">Car Controller</a>
 2. <a href="#skills">Skills</a>
-  * <a href="#mine">Mine</a>
-  * <a href="#shield">Shield</a>
-  * <a href="#missile">Missile</a>
+   * <a href="#mine">Mine</a>
+   * <a href="#shield">Shield</a>
+   * <a href="#missile">Missile</a>
 4. <a href="#networking">Networking</a>
 5. <a href="#garage">Garage</a>
 6. <a href="#minimap">Minimap</a>
