@@ -21,3 +21,17 @@ When the landmine collided with the vehicle, The vehicle are scattered by explod
 
 
 ![](ReadMeResources/Mine.gif)
+
+### Shield
+
+When the landmine collided with the vehicle, The vehicle are scattered by exploding force of the landmine. the vehicle gets damage and the landmine destroys itself from server (and all clients).
+
+
+![](ReadMeResources/Shield.gif)
+
+### Missile
+
+When the landmine collided with the vehicle, The vehicle are scattered by exploding force of the landmine. the vehicle gets damage and the landmine destroys itself from server (and all clients).
+
+
+![](ReadMeResources/Missile.gif)
