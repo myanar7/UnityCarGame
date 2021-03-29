@@ -42,6 +42,10 @@ Missile is locked its target. It goes towards the target.The transform datas dis
 
 ![](ReadMeResources/Missile.gif)
 
+## Networking
+
+There is four step to connect to the game. Firstly, you have to stable internet connection to connect to PUN2 Server. You will join priority lobby automatically when you connected with the server. 
+
 ## Built With
 
 * [Unity](https://unity.com/)
