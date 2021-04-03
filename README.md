@@ -44,7 +44,19 @@ Missile is locked its target. It goes towards the target.The transform datas dis
 
 ## Networking
 
-There is four step to connect to the game. Firstly, you have to stable internet connection to connect to PUN2 Server. You will join priority lobby automatically when you connected with the server. 
+There is four step to connect to the game. Firstly, you have to stable internet connection to connect to PUN2 Server. You will join priority lobby automatically when you connected with the server. Then the canvas changes to the lobby canvas. In the lobby canvas, you can create a room, leave the lobby and join a room from the room list which is on the right side of canvas. When you join/create a room, your client joins main client based server. You sees the other players in the list and start the game (the owner of room has only authority to start game). Then game will instantiate your vehicle in the terrain with all the players in the room.
+
+## Garage
+
+In the garage scene, there is a scrolling system to pass from car to car. All cars store in an array which index of it is # of car.When you scroll to another car, destroy the car and instantiate the new car (actually to use object pool may be more effecient than that).In the last index of array, we used a modula equation to get infinite loop between all cars. There is also some ui compenents to show properties of the vehicles. When you decided to choose what car you are going to drive, click the play button and load to the map.
+
+## Minimap
+
+There is a simple map in the game. We have used a ortographic camera and a ui render compenent to show the view of the camera on the canvas. Transform of camera update itself according to the vehicle.
+
+## Firebase
+
+The under construction ![](https://focusyouthcentre.org/wp-content/uploads/2019/08/under-construction-2408061_960_720.png)
 
 ## Built With
 
