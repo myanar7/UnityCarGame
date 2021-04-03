@@ -25,21 +25,29 @@ We have 3 types of skills in the game.
 
 When the landmine collided with the vehicle, The vehicle is scattered by exploding force of the landmine. the vehicle gets damage and the landmine destroys itself from the server (and all clients). 
 
-![](ReadMeResources/Mine.gif)
+<p align="center">
+  <img src="ReadMeResources/Mine.gif" alt="animated" />
+</p>
+
 
 ### Shield
 
 Shield protect your car from any damage. When your vehicle collides with a missile or landmine, it runs explosion partial effects and destroys these skills. It disappears after 5 seconds.
 
+<p align="center">
+  <img src="ReadMeResources/Shield.gif" alt="animated" />
+</p>
 
-![](ReadMeResources/Shield.gif)
 
 ### Missile
 
 The missile is locked its target. It goes towards the target. The transformed data distribute to all clients by the owner client of the missile. When the missile collides with any car which does not have a shield buff, then the vehicle gets damage and the missile destroys itself from the server. 
 
 
-![](ReadMeResources/Missile.gif)
+<p align="center">
+  <img src="ReadMeResources/Missile.gif" alt="animated" />
+</p>
+
 
 ## Networking
 
