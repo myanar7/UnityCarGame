@@ -23,9 +23,9 @@ We have 3 types of skills in the game.
 * Missile
 ### Mine
 
-When the landmine collided with the vehicle, The vehicle is scattered by exploding force of the landmine. the vehicle gets damage and the landmine destroys itself from the server (and all clients).
+When the landmine collided with the vehicle, The vehicle is scattered by exploding force of the landmine. the vehicle gets damage and the landmine destroys itself from the server (and all clients). 
 
-<p align="center"> ![](ReadMeResources/Mine.gif) </p>
+![](ReadMeResources/Mine.gif)
 
 ### Shield
 
