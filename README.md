@@ -41,7 +41,7 @@ Shield protect your car from any damage. When your vehicle collides with a missi
 
 ### Missile
 
-The missile is locked its target. It goes towards the target. The transformed data distribute to all clients by the owner client of the missile. When the missile collides with any car which does not have a shield buff, then the vehicle gets damage and the missile destroys itself from the server. 
+The missile is locked its target. It goes towards the target. The transformed data distribute to all clients by the owner client of the missile. When the missile collides with any car which does not have a shield buff, then the vehicle gets damage and the missile destroys itself from the server. .
 
 
 <p align="center">
